@@ -29,13 +29,13 @@ if ($movie == 'Aladdin') {
 switch ($movie) {
     case 'Aladdin':
         echo 'anbu, prince abu';
-        beak;
+        break;
     case 'Star Wars':
         echo 'The force be with you';
-        beak;
+        break;
     default:
         echo 'If variable don\'t coincide with one of other options';
-        beak;
+        break;
 }
 
 /*  GOTO    */
